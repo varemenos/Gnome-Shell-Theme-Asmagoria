@@ -202,9 +202,9 @@
 	/* Seperator Design */
 	.popup-separator-menu-item{
 		-gradient-height: 1px;
-		-gradient-start: rgba(8,8,8,0);
-		-gradient-end: #f60;
-		-margin-horizontal: 0.5em;
+		-gradient-start: transparent;
+		-gradient-end: #f90;
+		-margin-horizontal: 0.2em;
 		height: 0.5em;
 	}
 
@@ -218,7 +218,7 @@
 		-slider-background-color: #555;
 		-slider-border-color: rgba(0, 0, 0, 0.5);
 		-slider-active-background-color: #f60;
-		-slider-active-border-color: rgba(0, 0, 0, 0.5);
+		-slider-active-border-color: rgba(0, 0, 0, 0.2);
 		-slider-border-width: 2px;
 		-slider-handle-radius: 0.3em;
 	}
