@@ -1,1 +1,7 @@
 Initial version 1.0.0
+
+1.0.1
+	fixed Right Panel's button style (mostly targetting at music indicator's player buttons)
+	redesigned modal buttons
+	fixed hovered sliders
+	redesigned on toggle button

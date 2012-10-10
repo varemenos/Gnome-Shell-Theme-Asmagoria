@@ -34,16 +34,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
+     pagecolor="#000000"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="8"
-     inkscape:cx="5.4801439"
-     inkscape:cy="17.940656"
+     inkscape:zoom="11.313708"
+     inkscape:cx="6.2673302"
+     inkscape:cy="25.510631"
      inkscape:document-units="px"
-     inkscape:current-layer="g16298-3-6"
+     inkscape:current-layer="g16453"
      showgrid="false"
      inkscape:window-width="1680"
      inkscape:window-height="944"
@@ -51,7 +51,10 @@
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      borderlayer="true"
-     inkscape:showpageshadow="false" />
+     inkscape:showpageshadow="false"
+     showguides="true"
+     inkscape:snap-from-guide="true"
+     showborder="false" />
   <metadata
      id="metadata2862">
     <rdf:RDF>
@@ -74,7 +77,7 @@
        transform="translate(-351.35714,708.36218)"
        id="g16453">
       <rect
-         style="color:#000000;fill:#e86300;fill-opacity:1;fill-rule:nonzero;stroke:#ffa046;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="color:#000000;fill:#672c00;fill-opacity:1;fill-rule:nonzero;stroke:#ae5500;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect16256-9-4"
          width="63.000004"
          height="19"
@@ -84,7 +87,7 @@
          ry="4"
          transform="scale(-1,1)" />
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
+         style="fill:#202020;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;display:inline"
          id="rect16258-5-4"
          width="31"
          height="20"
