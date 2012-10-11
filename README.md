@@ -5,6 +5,10 @@ Asmagoria for Gnome Shell 3.6
 
 --------------------------------------------------------------------------------------------
 
+Screenshot album: http://imgur.com/a/obCcK#0
+
+--------------------------------------------------------------------------------------------
+
 This theme is not complete yet, i will keep improving it until I'm satisfied. Feel free to submit your requests i will obviously check them and try implementing them if I think they will raise the quality of this theme.
 
 --------------------------------------------------------------------------------------------
