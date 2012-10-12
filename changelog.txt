@@ -1,7 +1,7 @@
 Initial version 1.0.0
 
 1.0.1
-	fixed Right Panel's button style (mostly targetting at music indicator's player buttons)
+	fixed Right Panel's button style (mostly targeting at music indicator's player buttons)
 	redesigned modal buttons
 	fixed hovered sliders
 	redesigned on toggle button
@@ -9,3 +9,27 @@ Initial version 1.0.0
 1.0.2
 	changed seperator's color from #f60 to #f90
 	fiddled a bit with the sliders' border color, trying to keep it sexy while making it more visible to the eye
+
+1.0.3
+	overview
+		workspace inactive state shows only 16 instead of 32 pixels
+		workspace thumbnails simplified
+		captions redesigned
+		app filter styling (need rtl tester to confirm changes)
+		app launcher and grid styling
+		show-app button' :check state special styling
+		search results styling
+		App Switcher styled
+
+
+#Todo					Priority
+
+LookingGlass			0 
+Searchbox				2
+MessageTray				5
+Workspace Switcher		1
+Modal Redesign? 		3
+Magnifier/OSK			1
+IBus Candidate?			0
+Login Dialog			4
+Screen Shield			2
