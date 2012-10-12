@@ -20,6 +20,8 @@ Initial version 1.0.0
 		show-app button' :check state special styling
 		search results styling
 	App Switcher styled
+1.0.4
+	Right Panel's button style recolored again
 
 
 #Todo[Priority]
