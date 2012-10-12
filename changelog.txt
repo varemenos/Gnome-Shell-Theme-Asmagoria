@@ -19,7 +19,7 @@ Initial version 1.0.0
 		app launcher and grid styling
 		show-app button' :check state special styling
 		search results styling
-		App Switcher styled
+	App Switcher styled
 
 
 #Todo					Priority
