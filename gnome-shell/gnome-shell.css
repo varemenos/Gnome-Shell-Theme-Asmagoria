@@ -374,8 +374,8 @@
 
 	#searchEntry,
 	.notification StEntry{
-		border: 2px solid rgb(136,138,133);
 		background-color: #fff;
+		border: 2px solid rgb(136,138,133);
 		transition-duration: 300;
 	}
 
@@ -384,8 +384,8 @@
 	.notification StEntry:focus,
 	.login-dialog-prompt-entry,
 	.prompt-dialog-password-entry{
-		border: 2px solid rgb(136,138,133);
 		background-color: #fff;
+		border: 2px solid rgb(136,138,133);
 	}
 
 	.notification StEntry:focus,
