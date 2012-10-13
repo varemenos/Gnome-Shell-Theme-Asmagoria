@@ -5,7 +5,7 @@ Asmagoria for Gnome Shell 3.6
 
 --------------------------------------------------------------------------------------------
 
-Screenshot album: http://imgur.com/a/obCcK#0
+Screenshot album: http://imgur.com/a/obCcK/all
 
 --------------------------------------------------------------------------------------------
 
@@ -15,7 +15,7 @@ This theme is not complete yet, i will keep improving it until I'm satisfied. Fe
 
 How to install:
 
-First of all either fork this repo (reccomended for quick updating) or download the zip from here [link]
+First of all either fork this repo (reccomended for quick updating) or download the zip from here https://github.com/varemenos/Asmagoria/zipball/master
 Then move the directory inside the '~./themes' directory (if ~./themes directory doesn't exist, create it).
 After that, open the Gnome Advanced Settings Tool and in the Themes tab pick "Asmagoria" as your Shell Theme.
 
