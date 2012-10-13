@@ -22,15 +22,21 @@ Initial version 1.0.0
 	App Switcher styled
 1.0.4
 	Right Panel's button style recolored again
+	redesigned show-app button' :check state
+
+1.0.5
+	message tray styled
+		notification windows styled
+	close button redesigned to fit the rest of the UI's look
+	added close button hover state
+	Workspace switcher styled
 
 
 #Todo[Priority]
 
 LookingGlass [0]
 Searchbox [2]
-MessageTray [5]
-Workspace Switcher [1]
-Modal Redesign?  [3]
+Modal Redesign? [3]
 Magnifier/OSK [1]
 IBus Candidate? [0]
 Login Dialog [4]
