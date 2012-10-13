@@ -32,13 +32,14 @@ Initial version 1.0.0
 	Workspace switcher styled
 	fixed some message tray styling bug
 
+1.0.6
+	Looking Glass styled
+	Scrollbars styled
+	input boxes redesigned
 
-#Todo [Priority]
-	LookingGlass [0]
-	Searchbox [2]
-	Modal Redesign? [3]
-	Magnifier/OSK [1]
-	IBus Candidate? [0]
-	Login Dialog [5]
-	Screen Shield [2]
-	Raise close button's quality [3]
+
+#Todo/Wishlist
+	Login Dialog
+	Screen Shield
+	Modal Redesign?
+	Raise close button's quality

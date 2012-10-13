@@ -69,29 +69,29 @@
 
 	StScrollBar StBin#trough{
 		background-color: rgba(0,0,0,0.3);
-		border-radius: 8px;
+		border-radius: 0;
 	}
 
 	StScrollBar StButton#vhandle{
-		background-color: #5d6464;
-		border: 2px solid #242424;
-		border-radius: 8px;
+		background-color: #fc6;
+		border: 1px solid rgba(0, 0, 0, 0.3);
+		border-radius: 0;
 	}
 
 	StScrollBar StButton#hhandle{
-		background-color: #5d6464;
-		border: 2px solid #242424;
-		border-radius: 8px;
+		background-color: #fc6;
+		border: 1px solid rgba(0, 0, 0, 0.3);
+		border-radius: 0;
 	}
 
 	StScrollBar StButton#hhandle:hover,
 	StScrollBar StButton#vhandle:hover{
-		background-color: #777d7c;
+		background-color: #999;
 	}
 
 	StScrollBar StButton#hhandle:active,
 	StScrollBar StButton#vhandle:active{
-		background-color: #3465a4;
+		background-color: #5d6464;
 	}
 
 /* Check Boxes */
@@ -374,8 +374,9 @@
 
 	#searchEntry,
 	.notification StEntry{
-		background-color: #fff;
-		border: 2px solid rgb(136,138,133);
+		color: #444;
+		background-color: #111;
+		border: 2px solid #333;
 		transition-duration: 300;
 	}
 
@@ -385,7 +386,7 @@
 	.login-dialog-prompt-entry,
 	.prompt-dialog-password-entry{
 		background-color: #fff;
-		border: 2px solid rgb(136,138,133);
+		border: 2px solid #fc6;
 	}
 
 	.notification StEntry:focus,
@@ -871,15 +872,16 @@
 
 /* LookingGlass */
 	#LookingGlassDialog{
-		background-color: rgba(0,0,0,0.80);
+		color: #222;
+		background-color: #fff;
 		spacing: 4px;
 		padding: 4px;
-		border: 2px solid grey;
+		border: 2px solid #fc6;
 		border-radius: 4px;
 	}
 
 	#LookingGlassDialog > #Toolbar{
-		border: 1px solid grey;
+		border: 1px solid #fc6;
 		border-radius: 4px;
 	}
 
@@ -891,22 +893,22 @@
 		-natural-hpadding: 12px;
 		-minimum-hpadding: 6px;
 		font-weight: bold;
-		color: #ccc;
+		color: #222;
 		transition-duration: 100;
 		padding-left: .3em;
 		padding-right: .3em;
 	}
 
 	#LookingGlassDialog .notebook-tab:hover{
-		color: white;
+		color: #f90;
 		text-shadow: black 0px 2px 2px;
 	}
 
 	#LookingGlassDialog .notebook-tab:selected{
 		border-image: url("panel-button-border.svg") 10 10 0 2;
 		background-image: url("panel-button-highlight-wide.svg");
-		color: white;
-		text-shadow: black 0px 2px 2px;
+		color: #f60;
+		text-shadow: black 0px 0px 5px;
 	}
 
 	#LookingGlassDialog .lg-inspector-title{
@@ -915,8 +917,8 @@
 	}
 
 	.lg-dialog StEntry{
-		selection-background-color: #bbbbbb;
-		selected-color: #333333;
+		selection-background-color: #fff;
+		selected-color: #222;
 	}
 
 	.lg-completions-text{
@@ -929,26 +931,27 @@
 	}
 
 	.lg-obj-inspector-button{
-		border: 1px solid gray;
+		border: 1px solid #fc6;
 		padding: 4px;
 		border-radius: 4px;
 	}
 
 	.lg-obj-inspector-button:hover{
-		border: 1px solid #ffffff;
+		border: 1px solid #f60;
 	}
 
 	.lg-dialog .shell-link{
-		color: #999999;
+		color: #333;
 	}
 
 	.lg-dialog .shell-link:hover{
-		color: #dddddd;
+		color: #f60;
 	}
 
 	#LookingGlassDialog StBoxLayout#EvalBox{
 		padding: 4px;
 		spacing: 4px;
+		color: #151;
 	}
 
 	#LookingGlassDialog StBoxLayout#ResultsArea{
@@ -965,8 +968,8 @@
 	}
 
 	.lg-extension{
-		border: 1px solid #6f6f6f;
-		border-radius: 4px;
+		border: 1px solid #fc6;
+		border-radius: 0;
 		padding: 4px;
 	}
 
@@ -979,9 +982,10 @@
 	}
 
 	#LookingGlassPropertyInspector{
-		background: rgba(0, 0, 0, 0.8);
-		border: 2px solid grey;
-		border-radius: 4px;
+		color: #151;
+		background: #fff;
+		border: 2px solid #fc6;
+		border-radius: 0;
 		padding: 6px;
 	}
 
