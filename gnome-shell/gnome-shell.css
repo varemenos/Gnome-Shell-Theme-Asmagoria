@@ -1235,14 +1235,14 @@
 
 	.summary-boxpointer{
 		-arrow-border-radius: 8px;
-		-arrow-base: 36px;
-		-arrow-rise: 18px;
+		-arrow-base: 15px;
+		-arrow-rise: 9px;
+		-arrow-background-color: #fff;
+		-arrow-border-width: 2px;
+		-arrow-border-color: #fc6;
 		-boxpointer-gap: 4px;
 		color: #222;
-		background: #fff;
-		border: 2px solid #fc6;
-		border-radius: 5px;
-		box-shadow: 0 0 1em #000;
+		border-radius: 3px;
 	}
 
 	.summary-boxpointer .notification{

@@ -30,6 +30,7 @@ Initial version 1.0.0
 	close button redesigned to fit the rest of the UI's look
 	added close button hover state
 	Workspace switcher styled
+	fixed some message tray styling bug
 
 
 #Todo [Priority]
