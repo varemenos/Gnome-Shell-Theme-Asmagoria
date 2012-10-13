@@ -36,6 +36,7 @@ Initial version 1.0.0
 	Looking Glass styled
 	Scrollbars styled
 	input boxes redesigned
+	Message tray's Notification icon redesigned
 
 
 #Todo/Wishlist

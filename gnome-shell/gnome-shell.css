@@ -1182,9 +1182,10 @@
 	}
 
 /* Message Tray */
+
 	#message-tray{
 		color: #222;
-		border-top: 2px solid #fc6;
+		border-top: 4px solid #fc6;
 		background: #fff;
 		transition-duration: 250;
 		height: 72px;
@@ -1193,14 +1194,6 @@
 	#message-tray:keyboard{
 		/* Same as the OSK */
 		background: rgba(0, 0, 0, 0.8);
-	}
-
-	#message-tray:overview{
-		color: #222;
-		border-top: 2px solid #fc6;
-		background: #fff;
-		transition-duration: 250;
-		height: 72px;
 	}
 
 	.notification{
@@ -1437,6 +1430,9 @@
 	.summary-source-button{
 		border-radius: 4px;
 		transition-duration: 100;
+		background-color: #fff;
+		border: 1px solid #ccc;
+		box-shadow: 0 0 5px #aaa;
 	}
 
 	.summary-source-button:hover{
